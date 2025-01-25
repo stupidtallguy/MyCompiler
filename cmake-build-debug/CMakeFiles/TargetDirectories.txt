@@ -1,0 +1,3 @@
+E:/University/Semester5/Mycompiler/cmake-build-debug/CMakeFiles/Mycompiler.dir
+E:/University/Semester5/Mycompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/University/Semester5/Mycompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
